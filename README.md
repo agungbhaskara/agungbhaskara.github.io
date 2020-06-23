@@ -1,5 +1,5 @@
 My Portfolio Website Design
 for #agungbhaskara
 
-Hefa Store : https://gungbhaskar4.github.io/hefastore <br>
-backpack store : https://gungbhaskar4.github.io/backpack-store/
+Hefa Store : https://agungbhaskara.github.io/hefastore <br>
+backpack store : https://agungbhaskara.github.io/backpack-store/
